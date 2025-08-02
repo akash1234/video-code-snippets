@@ -25,8 +25,8 @@
         prefixLength = 24;
       }];
     };
-    defaultGateway = "192.168.100.254";
-    nameservers = [ "192.168.100.254" ];
+    defaultGateway = "192.168.100.1";
+    nameservers = [ "9.9.9.9" ];
   };
 
   # System localization
